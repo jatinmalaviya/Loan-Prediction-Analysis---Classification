@@ -1,7 +1,5 @@
 # Loan Prediction Analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/zDwxGxiNFSo
-
 # Dataset Information
 
    Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customers segments, those are eligible for loan amount so that they can specifically target these customers.
@@ -40,4 +38,4 @@ Loan_Status | Loan approved (Y/N)
 <li>Random Forest
 <li>Extra Tress
   
-**Best Model Accuracy:** 81.00
+**Best Model Accuracy:** 81.00(LogisticRegression)
