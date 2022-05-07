@@ -32,7 +32,7 @@ Loan_Status | Loan approved (Y/N)
 # Algorithms
 
 <li>Decision Tree
-<li>Decision Tree
+<li>Logistic Regression
 <li>Random Forest
 
   
