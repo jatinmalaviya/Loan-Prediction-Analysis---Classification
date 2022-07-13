@@ -36,4 +36,4 @@ Loan_Status | Loan approved (Y/N)
 <li>Random Forest
 
   
-**Best Model Accuracy:** 81.00(Logistic Regression)
+**Best Model Accuracy:** 91.50(Logistic Regression)
